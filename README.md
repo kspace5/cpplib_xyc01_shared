@@ -1,4 +1,4 @@
-# abc_lib
+# xyc01_lib
 Simple CMake static lib example (c++)
 
 ## Build Instructions (Windows)
