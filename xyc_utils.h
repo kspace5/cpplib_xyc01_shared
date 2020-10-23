@@ -19,7 +19,7 @@ namespace xyc {
 		// Splits line into a vector or floats
 		std::vector<float> split_to_floats(std::string str, char delimiter);
 
-		string ping(string str);
+		std::string ping(std::string str);
 }
 
 #endif

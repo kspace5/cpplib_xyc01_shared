@@ -35,6 +35,6 @@ namespace xyc {
 	}
 
 	string ping(string str) {
-		return "Hello from abc " + str;
+		return "Hello from xyc " + str;
 	}
 }
